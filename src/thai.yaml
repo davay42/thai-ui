@@ -1,0 +1,158 @@
+Vowels:
+  Short:
+    - [
+        a,
+        "◌, ◌ะ, ◌ั◌",
+        a,
+        "พยางค์ / phayang, จะละเม็ด / chalamet, บัลลังก์ / banlang",
+        cut,
+      ]
+    - [e, "เ◌ะ, เ◌็◌", e, "เพชร / phet, เซ็ง / seng", mate (Scottish)]
+    - [ɛ, "แ◌ะ, แ◌็◌", ae, "แว่น / waen, แหย็ม / yaem", bat]
+    - [i, "◌ิ, ◌ิ◌", i, "บริเวณ / boriwen, ลิขสิทธิ์ / likkhasit", happy]
+    - [o, "โ◌ะ, ◌◌", o, "ลม / lom, กรด / krot", boat (Scottish)]
+    - [ɔ, "เ◌าะ, ◌็อ◌", o, "กระท่อม / krathom, ล็อก / lok", lot]
+    - [u, "◌ุ, ◌ุ◌", u, "บุหรี่ / buri,คุณวุฒิ / khunnawut", shoot]
+    - [ɯ, ◌ึ◌, ue, "ฮึด / huet,อึกทึก / uekkathuek", goose (Australian)]
+    - [ɤ, เ◌อะ, oe, เงิน / ngoen, the]
+
+  Long:
+    - [aː, "◌า, ◌า◌", a, "กล้า / kla, ราบ / rap", bra]
+    - [eː, "เ◌, เ◌◌", e, "ทะเล / thale, เกรง / kreng", play (Scottish)]
+    - [ɛː, "แ◌, แ◌◌", ae, "แพ / phae, แคว้น / khwaen", man]
+    - [iː, "◌ี, ◌ี◌", i, "นี้ / ni, ปีน / pin", green]
+    - [oː, "โ◌, โ◌◌", o, "โห่ / ho, โลก / lok", go (Scottish)]
+    - [ɔː, "◌, ◌อ, ◌อ◌", o, "ธรณี / thorani, ตอม่อ / tomo, กลอง / klong", lawn]
+    - [uː, "◌ู, ◌ู◌", u, "สู้ / su,บูด / but", moon]
+    - [
+        ɯː,
+        "◌ือ, ◌ื◌",
+        ue,
+        "หนังสือ / nangsue, คลื่น / khluen",
+        who'd (Australian),
+      ]
+    - [ɤː, "เ◌อ, เ◌ิ◌", oe, "เผอเรอ / phoeroe, เกิด / koet", fur]
+
+  Double:
+    - [ia, "เ◌ีย, เ◌ีย◌", ia, "เพลีย / phlia, เงียบ / ngiap", media]
+    - [ua, "◌ัว, ◌ว◌", ua, "จั่ว / chua, หวด / huat", gruel]
+    - [ɯa, "เ◌ือ, เ◌ือ◌", uea, "เครือ / khruea, เมือง / mueang"]
+
+  Final:
+    - [aj, "◌ัย, ใ◌, ไ◌", ai, "วัย / wai, ใหญ่ / yai, ไม่ / mai", tight]
+    - [aw, เ◌า, ao, เอา / ao, house]
+    - [ew, "เ◌ว, เ◌็ว", eo, "เร่ว / reo, เร็ว / reo"]
+    - [ɛw, "แ◌ว, แ◌็ว", aeo, "แถว / thaeo, แผล็ว / phlaeo", house (Australian)]
+    - [iw, ◌ิว, io, หิว / hio, hue]
+    - [ɔj, "◌อย, ◌็อย", oi, "บ่อย / boi, หย็อย / yoi", Boyce]
+    - [uj, ◌ุย, ui, คุย / khui, chewy]
+    - [aːj, ◌าย, ai, ตาย / tai, Thai]
+    - [aːw, ◌าว, ao, ดาว / dao, cow]
+    - [eːw, เ◌ว, eo, เลว / leo]
+    - [ɛːw, แ◌ว, aeo, แล้ว / laeo, cow (Australian)]
+    - [oːj, โ◌ย, oi, โดย / doi, boy (Australian)]
+    - [ɔːj, ◌อย, oi, ร้อย / roi, boy]
+    - [ɤːj, เ◌ย, oei, เนย / noei, millefeuille (British)]
+    - [iaw, เ◌ียว, iao, เปรี้ยว / priao, meow]
+    - [uaj, ◌วย, uai, ถ้วย / thuai, Paraguay]
+    - [ɯaj, เ◌ือย, ueai, เฟื้อย / fueai]
+Consonants:
+  Initial:
+    - [b, บ, b, บำบัด / bambat, boom]
+    - [d, "ฎ, ฑ, ด", d, "ฎีกา / dika, มณฑป / mondop, ดาว / dao", doom]
+    - [f, "ฝ, ฟ", f, "เฝื่อน / fuean, ไฟฟ้า / faifa", food]
+    - [h, "ห, ฮ", h, "หาบ / hap, ฮ่อยจ๊อ / hoicho", head]
+    - [
+        j,
+        "ญ, ย, หญ, หย, อย",
+        y,
+        "เย้ย / yoei, หญิง / ying,หยากไย่ / yakyai",
+        yak,
+      ]
+    - [k, ก, k, กางเกง / kangkeng, scan]
+    - [
+        kʰ,
+        "ข, ฃ, ค, ฅ, ฆ",
+        kh,
+        "ขั้ว / khua, อัคคี / akkhi, ระฆัง / rakhang",
+        can,
+      ]
+    - [
+        l,
+        "ล, หล, ฬ",
+        l,
+        "ละเลียด / laliat, โหลเหล / lole, นาฬิกา / nalika",
+        leaf,
+      ]
+    - [m, "ม, หม", m, "มอมแมม / mommaem, หมาด / mat", much]
+    - [n, "ณ, น, หน", n, "เณร / nen, น้อยหน่า / noina", not]
+    - [ŋ, "ง, หง", ng, "งง / ngong, มะเหงก / ma-ngek", bringing]
+    - [p, ป, p, ปาน / pan, span]
+    - [pʰ, "ผ, พ, ภ", ph, "ผึ้ง / phueng, พัน / phan, พิภพ / phiphop", pan]
+    - [r, "ร, หร", r, "ระเริง / raroeng,  หรูหรา / rura", trilled r]
+    - [
+        s,
+        "ซ, ซร, ทร, ศ, ศร, ษ, ส, สร",
+        s,
+        "แซง / saeng, ศรี / si, สิ่ว / sio",
+        soup,
+      ]
+    - [t, "ฏ, ต", t, "ปฏิบัติ / patibat,ตำรวจ / tamruat", stable]
+    - [
+        tʰ,
+        "ฐ, ฑ, ฒ, ถ, ท, ธ",
+        th,
+        "วัตถุ / watthu, ทับทิม / thapthim, อธิษฐาน / athitthan",
+        table,
+      ]
+    - [tɕ, "จ, จร", ch, "จราจร / charachon, จริง / ching", question]
+    - [
+        tɕʰ,
+        "ฉ, ช, ฌ",
+        ch,
+        "เฉิด / choet, ชิงช้า / chingcha, อัชฌา / atcha",
+        cheese,
+      ]
+    - [w, "ว, หว", w, "วาว / wao,เหวี่ยง / wiang", way]
+    - [
+        ʔ,
+        อ,
+        "",
+        "อร่อย / aroi [ʔàʔ.rɔ̀j] > [ʔā.rɔ̀j], สิบเอ็ด / sip et [sìp ʔèt]",
+        the catch in uh-oh,
+      ]
+
+  Final:
+    - [j, ย, i, "เย้ย / yoei, ขยาย / khayai", boy]
+    - [
+        k,
+        "ก, กร, ข, ค, คร, ฆ",
+        k,
+        "กรอก / krok, สมัคร / samak, เมฆ / mek",
+        doctor,
+      ]
+    - [m, ม, m, มอมแมม / mommaem, jam]
+    - [
+        n,
+        "ญ, ณ, น, ร, รุ, ล, ฬ",
+        n,
+        "วิญญาณ / winyan, สันดอน / sandon, เณร / nen",
+        can,
+      ]
+    - [ŋ, ง, ng, งง / ngong, sang]
+    - [p, "บ, ป, พ, ฟ, ภ", p, "ปราบ / prap, ทวีป / thawip, ภาพ / phap", apt]
+    - [
+        t,
+        "จ, ช, ชร, ซ, ฎ, ฏ, ฐ, ฑ, ฒ, ฒิ, ด, ต, ตร, ติ, ตุ, ถ, ท, ทร, ธ, ธิ, รถ, รท, ศ, ษ, ส",
+        t,
+        "ตำรวจ / tamruat, แดด / daet, วัตถุ / watthu, เมตร / met, บทบาท / botbat, สามารถ / samat, ประเทศ / prathet",
+        catnip,
+      ]
+    - [w, ว, o, "วาว / wao, แก้ว / kaeo", wow]
+    - [
+        ʔ,
+        "ะ, –",
+        "",
+        "มานะ / mana [māː.náʔ], คติ / khati [kʰáʔ.tìʔ] > [kʰā.tìʔ],เกี๊ยะ / kia [kíaʔ]",
+        flat (Cockney),
+      ]
