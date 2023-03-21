@@ -1,0 +1,1 @@
+import{o as e,c as t,_ as c}from"./index-9f6a1d3e.js";const o={class:"text-4xl"};function a(r,s){return e(),t("div",o,"Thai language learner's hub")}const n={},l=c(n,[["render",a]]);export{l as default};
