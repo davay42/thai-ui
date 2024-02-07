@@ -14,6 +14,7 @@ main(:style="{fontFamily: modern ? 'Athiti' : 'sans-serif'}")
       router-link(to="/vowels/") Vowels
       router-link(to="/consonants/") Consonants
       router-link(to="/tones/") Tones
+      router-link(to="/mai-muan/") Mai Muan
 
   button.fixed.top-4.left-8.p-2.cursor-hover.rounded-xl.shadow-lg.bg-light-900.z-10.ml-auto(
     @click="modern=!modern"

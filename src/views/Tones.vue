@@ -2,6 +2,7 @@
 //@ts-expect-error
 import lang from '../tones.yaml'
 
+import ToneIcon from '../tones/ToneIcon.vue';
 
 </script>
 
@@ -10,7 +11,6 @@ main.flex-auto.flex.flex-col
 
   .font-bold.p-4.text-2xl.bg-light-900 Thai tones
 
-  .pre {{ lang }}
   .grid.grid-cols-5.gap-4
     .p-4.text-center(v-for="(tone,t) in lang.Tones" :key="tone") 
 
@@ -24,7 +24,31 @@ main.flex-auto.flex.flex-col
     .text-2xl.row-span-3.items-center.flex {{ className }}
     .text-4xl(v-for="letter in clas" :key="letter") {{ letter }}
 
-  .grid.grid-cols-7
+.grid.grid-cols-12.gap-2
+  template(
+    v-for="(row,r ) in lang.Read"
+    )
+
+    .col-span-6.grid.grid-cols-8(:class="{'row-span-2':r!=2, 'row-span-3': r==2}")
+      .p-2.text-5xl.items-center.flex.flex-col.text-center(v-for="letter in  Object.values(lang.Classes)[r]") {{ letter }}
+
+    template(
+      v-for="syllable in ['alive','dead','deadLong'].filter(syllable=>row?.[syllable])"
+      ) 
+      .p-2.items-center.flex.flex-col.text-center
+        svg(v-if="syllable == 'alive'" xmlns="http://www.w3.org/2000/svg", width="32", height="32", viewBox="0 0 32 32")
+          path( fill="currentColor", d="M18.719 6.781L17.28 8.22L24.063 15H4v2h20.063l-6.782 6.781l1.438 1.438l8.5-8.5l.687-.719l-.687-.719z")
+        svg(v-if="syllable == 'deadLong'" xmlns="http://www.w3.org/2000/svg", width="32", height="32", viewBox="0 0 24 24")
+          g(fill="none")
+            path(fill="currentColor", d="m14 12l.707-.707l.707.707l-.707.707zM4 13a1 1 0 1 1 0-2zm4.707-7.707l6 6l-1.414 1.414l-6-6zm6 7.414l-6 6l-1.414-1.414l6-6zM14 13H4v-2h10z")
+            path(stroke="currentColor", stroke-width="2", d="M20 5v14")
+        svg(v-if="syllable == 'dead'" xmlns="http://www.w3.org/2000/svg", width="32", height="32", viewBox="0 0 24 24")
+          path(fill="none", stroke="currentColor", stroke-width="2", d="m7 6l6 6l-6 6M18 7v10")
+
+      .p-2.text-8xl.items-center.flex.flex-col.text-center(v-for="tone in row?.[syllable]") 
+        ToneIcon(:tone="tone")
+
+.pre {{ lang }}
     
 </template>
 
