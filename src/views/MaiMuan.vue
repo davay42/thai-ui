@@ -1,18 +1,19 @@
 <script setup>
 // https://www.clickthai-online.com/basics/20_mai_muan.html
+// https://www.youtube.com/watch?v=1FNzn7rFkuE
 </script>
 
 <template>
   <table class="text-xl">
     <tbody>
       <tr>
-        <td class="ThaiText"><a href="javascript:play('../cgi-bin/playmp3.pl?062013');">ใกล้</a></td>
+        <td class="ThaiText">ใกล้</td>
         <td><span class="News">[<span class="NoWrap">glay<span class="Tones">
                 /\</span></span> ]</span></td>
         <td>near</td>
       </tr>
       <tr>
-        <td class="ThaiText"><a href="javascript:play('../cgi-bin/playmp3.pl?107262');">ใคร</a></td>
+        <td class="ThaiText">ใคร</td>
         <td><span class="News">[<span class="NoWrap">khray <span class="Tones">--</span></span> ]</span></td>
         <td>who</td>
       </tr>
@@ -127,6 +128,11 @@
       </tr>
     </tbody>
   </table>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1FNzn7rFkuE?si=ecHRMKaE3fW92nfk"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen></iframe>
 
   <div class="tile" id="tile3">
 
