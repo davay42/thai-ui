@@ -1,0 +1,22 @@
+Tones:
+  - [" ◌", "¯", "Middle", "สามัญ"]
+  - [" ่", "ˋ", "Low", "เอก"]
+  - [" ้", "ˆ", "Falling", "โท"]
+  - [" ๊", "´", "High", "ตรี"]
+  - [" ๋", "ˇ", "Rising", "จัตวา"]
+Write:
+  - alive: [x, 1, 2, x, 0]
+    dead: [x, 0, 2, x, x]
+  - alive: [0, 1, 2, 3, 4]
+    dead: [x, 0, 2, 3, 4]
+  - alive: [0, x, 1, 2, x]
+    dead: [x, x, 1, 2, x]
+    deadLong: [x, x, 0, 2, 4]
+Read:
+  - alive: [4, 1, 2, x, x]
+    dead: [1, x, 2, x, x]
+  - alive: [0, 1, 2, 3, 4]
+    dead: [1, x, 2, x, x]
+  - alive: [0, 2, 3, x, x]
+    dead: [3, 2, x, x, x]
+    deadLong: [2, x, 3, x, 4]

@@ -1,0 +1,104 @@
+Consonants:
+  Initial:
+    - [b, บ, b, บำบัด / bambat, boom]
+    - [d, "ฎ, ฑ, ด", d, "ฎีกา / dika, มณฑป / mondop, ดาว / dao", doom]
+    - [f, "ฝ, ฟ", f, "เฝื่อน / fuean, ไฟฟ้า / faifa", food]
+    - [h, "ห, ฮ", h, "หาบ / hap, ฮ่อยจ๊อ / hoicho", head]
+    - [
+        j,
+        "ญ, ย, หญ, หย, อย",
+        y,
+        "เย้ย / yoei, หญิง / ying,หยากไย่ / yakyai",
+        yak,
+      ]
+    - [k, ก, k, กางเกง / kangkeng, scan]
+    - [
+        kʰ,
+        "ข, ฃ, ค, ฅ, ฆ",
+        kh,
+        "ขั้ว / khua, อัคคี / akkhi, ระฆัง / rakhang",
+        can,
+      ]
+    - [
+        l,
+        "ล, หล, ฬ",
+        l,
+        "ละเลียด / laliat, โหลเหล / lole, นาฬิกา / nalika",
+        leaf,
+      ]
+    - [m, "ม, หม", m, "มอมแมม / mommaem, หมาด / mat", much]
+    - [n, "ณ, น, หน", n, "เณร / nen, น้อยหน่า / noina", not]
+    - [ŋ, "ง, หง", ng, "งง / ngong, มะเหงก / ma-ngek", bringing]
+    - [p, ป, p, ปาน / pan, span]
+    - [pʰ, "ผ, พ, ภ", ph, "ผึ้ง / phueng, พัน / phan, พิภพ / phiphop", pan]
+    - [r, "ร, หร", r, "ระเริง / raroeng,  หรูหรา / rura", trilled r]
+    - [
+        s,
+        "ซ, ซร, ทร, ศ, ศร, ษ, ส, สร",
+        s,
+        "แซง / saeng, ศรี / si, สิ่ว / sio",
+        soup,
+      ]
+    - [t, "ฏ, ต", t, "ปฏิบัติ / patibat,ตำรวจ / tamruat", stable]
+    - [
+        tʰ,
+        "ฐ, ฑ, ฒ, ถ, ท, ธ",
+        th,
+        "วัตถุ / watthu, ทับทิม / thapthim, อธิษฐาน / athitthan",
+        table,
+      ]
+    - [tɕ, "จ, จร", ch, "จราจร / charachon, จริง / ching", question]
+    - [
+        tɕʰ,
+        "ฉ, ช, ฌ",
+        ch,
+        "เฉิด / choet, ชิงช้า / chingcha, อัชฌา / atcha",
+        cheese,
+      ]
+    - [w, "ว, หว", w, "วาว / wao,เหวี่ยง / wiang", way]
+    - [
+        ʔ,
+        อ,
+        "",
+        "อร่อย / aroi [ʔàʔ.rɔ̀j] > [ʔā.rɔ̀j], สิบเอ็ด / sip et [sìp ʔèt]",
+        the catch in uh-oh,
+      ]
+
+  Final:
+    - [j, ย, i, "เย้ย / yoei, ขยาย / khayai", boy]
+    - [
+        k,
+        "ก, กร, ข, ค, คร, ฆ",
+        k,
+        "กรอก / krok, สมัคร / samak, เมฆ / mek",
+        doctor,
+      ]
+    - [m, ม, m, มอมแมม / mommaem, jam]
+    - [
+        n,
+        "ญ, ณ, น, ร, รุ, ล, ฬ",
+        n,
+        "วิญญาณ / winyan, สันดอน / sandon, เณร / nen",
+        can,
+      ]
+    - [ŋ, ง, ng, งง / ngong, sang]
+    - [p, "บ, ป, พ, ฟ, ภ", p, "ปราบ / prap, ทวีป / thawip, ภาพ / phap", apt]
+    - [
+        t,
+        "จ, ช, ชร, ซ, ฎ, ฏ, ฐ, ฑ, ฒ, ฒิ, ด, ต, ตร, ติ, ตุ, ถ, ท, ทร, ธ, ธิ, รถ, รท, ศ, ษ, ส",
+        t,
+        "ตำรวจ / tamruat, แดด / daet, วัตถุ / watthu, เมตร / met, บทบาท / botbat, สามารถ / samat, ประเทศ / prathet",
+        catnip,
+      ]
+    - [w, ว, o, "วาว / wao, แก้ว / kaeo", wow]
+    - [
+        ʔ,
+        "ะ, –",
+        "",
+        "มานะ / mana [māː.náʔ], คติ / khati [kʰáʔ.tìʔ] > [kʰā.tìʔ],เกี๊ยะ / kia [kíaʔ]",
+        flat (Cockney),
+      ]
+Classes:
+  high: [ข, ฃ, ฉ, ฐ, ถ, ผ, ฝ, ห, ศ, ษ, ส]
+  mid: [ก, จ, ฎ, ฏ, ด, ต, บ, ป, อ]
+  low: [ค, ฅ, ฆ, ช, ฌ, ฑ, ฒ, ท, ธ, พ, ภ, ฟ, ซ, ฮ, ง, ว, ญ, ณ, น, ม, ย, ร, ล, ฬ]
