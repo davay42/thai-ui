@@ -16,7 +16,7 @@ main(:style="{fontFamily: modern ? 'Athiti' : 'sans-serif'}")
       router-link(to="/tones/") Tones
       router-link(to="/mai-muan/") Mai Muan
       router-link(to="/time/") Time
-      router-link(to="/random/") Random
+      //- router-link(to="/random/") Random
 
   button.fixed.top-4.left-8.p-2.cursor-hover.rounded-xl.shadow-lg.bg-light-900.z-10.ml-auto(
     @click="modern=!modern"

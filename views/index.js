@@ -40,11 +40,11 @@ const router = createRouter({
       name: 'time',
       component: Time
     },
-    {
-      path: '/random/',
-      name: 'random',
-      component: RandomWord
-    },
+    // {
+    //   path: '/random/',
+    //   name: 'random',
+    //   component: RandomWord
+    // },
   ]
 })
 

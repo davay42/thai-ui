@@ -5,8 +5,8 @@
 	"type": "module",
 	"packageManager": "pnpm@9.15.3",
 	"scripts": {
-		"dev": "vite",
-		"preview": "vite preview",
+		"dev": "vite --host",
+		"preview": "vite preview --host",
 		"build": "vite build",
 		"deploy": "sh deploy.sh"
 	},

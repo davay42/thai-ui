@@ -16,7 +16,7 @@ export default defineConfig({
   plugins: [
     vue(),
     ViteYaml(),
-    viteSingleFile(),
+    // viteSingleFile(),
     Unfonts({
       google: {
         families: [
